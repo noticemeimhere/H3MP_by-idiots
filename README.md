@@ -2,10 +2,9 @@
 An attempt to fix some bugs in h3mp, do we know what we're doing? No.
 Have we ever done unity modding? No.
 This code should hopefully work with BepInEx 5.4.17. (I recommend [this.)](https://thunderstore.io/c/h3vr/p/BepInEx/BepInExPack_H3VR/)
-
-# Original README below
-
-
+<br>
+Original README below.
+<br>
 # H3MP - Multiplayer mod for H3VR
 
 As the title says, this is a mod that adds multiplayer to the virtual reality game **Hotdogs, Horseshoes and Handgrenades**.
